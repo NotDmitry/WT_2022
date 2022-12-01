@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19" class="java.beans.XMLDecoder">
+ <object class="client.entity.Student">
+  <void property="birthday">
+   <object class="java.time.LocalDate" method="parse">
+    <string>2003-05-02</string>
+   </object>
+  </void>
+  <void property="characteristic">
+   <string>Cute</string>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="lastModification">
+   <object class="java.time.LocalDateTime" method="parse">
+    <string>2022-11-10T03:07:13.066962500</string>
+   </object>
+  </void>
+  <void property="name">
+   <string>Ricardo</string>
+  </void>
+ </object>
+ <object class="client.entity.Student">
+  <void property="birthday">
+   <object class="java.time.LocalDate" method="parse">
+    <string>2002-03-30</string>
+   </object>
+  </void>
+  <void property="characteristic">
+   <string>Kind</string>
+  </void>
+  <void property="id">
+   <int>2</int>
+  </void>
+  <void property="lastModification">
+   <object class="java.time.LocalDateTime" method="parse">
+    <string>2022-11-04T01:19:38.094600500</string>
+   </object>
+  </void>
+  <void property="name">
+   <string>Donald</string>
+  </void>
+ </object>
+ <object class="client.entity.Student">
+  <void property="birthday">
+   <object class="java.time.LocalDate" method="parse">
+    <string>2003-02-24</string>
+   </object>
+  </void>
+  <void property="characteristic">
+   <string>Brave</string>
+  </void>
+  <void property="id">
+   <int>3</int>
+  </void>
+  <void property="lastModification">
+   <object class="java.time.LocalDateTime" method="parse">
+    <string>2022-11-10T02:30:36.602514800</string>
+   </object>
+  </void>
+  <void property="name">
+   <string>Zena</string>
+  </void>
+ </object>
+ <object class="client.entity.Student">
+  <void property="birthday">
+   <object class="java.time.LocalDate" method="parse">
+    <string>2002-10-01</string>
+   </object>
+  </void>
+  <void property="characteristic">
+   <string>Clever</string>
+  </void>
+  <void property="id">
+   <int>4</int>
+  </void>
+  <void property="lastModification">
+   <object class="java.time.LocalDateTime" method="parse">
+    <string>2022-11-10T02:30:03.177502100</string>
+   </object>
+  </void>
+  <void property="name">
+   <string>Saul</string>
+  </void>
+ </object>
+ <object class="client.entity.Student">
+  <void property="birthday">
+   <object class="java.time.LocalDate" method="parse">
+    <string>2003-06-13</string>
+   </object>
+  </void>
+  <void property="characteristic">
+   <string>Bitcup-enjoyer</string>
+  </void>
+  <void property="id">
+   <int>5</int>
+  </void>
+  <void property="lastModification">
+   <object class="java.time.LocalDateTime" method="parse">
+    <string>2022-11-10T02:31:42.795566400</string>
+   </object>
+  </void>
+  <void property="name">
+   <string>Alex</string>
+  </void>
+ </object>
+ <object class="client.entity.Student">
+  <void property="birthday">
+   <object class="java.time.LocalDate" method="parse">
+    <string>2001-12-12</string>
+   </object>
+  </void>
+  <void property="characteristic">
+   <string>Old</string>
+  </void>
+  <void property="id">
+   <int>6</int>
+  </void>
+  <void property="lastModification">
+   <object class="java.time.LocalDateTime" method="parse">
+    <string>2022-11-10T03:05:56.969335300</string>
+   </object>
+  </void>
+  <void property="name">
+   <string>Leo</string>
+  </void>
+ </object>
+</java>
